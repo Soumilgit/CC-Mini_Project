@@ -6,13 +6,6 @@
 
 An end-to-end serverless web application that identifies professional football players using facial recognition powered by **Amazon Rekognition**. Built with a modern frontend and deployed on a secure, scalable AWS architecture using **Lambda, S3, API Gateway, CloudFront, and Route 53**.
 
-## Live Demo
-
-**Legacy Link (Redirected to HTTPS):**  
-[https://my-ftbl-bucket.s3.us-east-1.amazonaws.com/index.html](https://my-ftbl-bucket.s3.us-east-1.amazonaws.com/index.html)
-
----
-
 ## 📸 Features
 
 - Real-time footballer face recognition
