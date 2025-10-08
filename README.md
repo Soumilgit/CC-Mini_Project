@@ -4,9 +4,9 @@
 
 # Footballer Face Recognition – Serverless AI Project
 
-An end-to-end serverless web application that identifies professional football players using facial recognition powered by **Amazon Rekognition**. Built with a modern frontend and deployed on a secure, scalable AWS architecture using **Lambda, S3, API Gateway, CloudFront, and Route 53**.
+End-to-end serverless web application that identifies professional football players using facial recognition powered by **Amazon Rekognition**. Built with a modern frontend and deployed on a secure, scalable AWS architecture using **Lambda, S3, API Gateway, CloudFront, and Route 53**.
 
-## 📸 Features
+## Features
 
 - Real-time footballer face recognition
 - Secure HTTPS hosting via **CloudFront + Route 53**
@@ -36,7 +36,7 @@ An end-to-end serverless web application that identifies professional football p
 
 ---
 
-## 🔁 Flow Overview
+## Flow Overview
 
 1. User uploads a footballer image via web form.
 2. Image is encoded in Base64 and sent to API Gateway.
